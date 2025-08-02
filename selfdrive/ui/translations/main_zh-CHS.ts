@@ -2077,11 +2077,11 @@ If you&apos;d like to proceed, use https://flash.comma.ai to restore your device
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>🎉Welcome back! We&apos;re excited to see you&apos;ve enabled sunnylink again! 🚀</source>
+        <source>🎉Welcome back! We&apos;re excited to see you&apos;ve enabled CyberLink again! 🚀</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>👋Not going to lie, it&apos;s sad to see you disabled sunnylink 😢, but we&apos;ll be here when you&apos;re ready to come back 🎉.</source>
+        <source>👋Not going to lie, it&apos;s sad to see you disabled CyberLink 😢, but we&apos;ll be here when you&apos;re ready to come back 🎉.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
